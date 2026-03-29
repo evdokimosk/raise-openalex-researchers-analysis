@@ -269,6 +269,7 @@ plt.savefig('custom_plot.png')
 If you use this tool in your research, please cite:
 ```
 Konstantinidis, E. (2026). Openalex Researcher Work Analysis (v5) in RAISE (No. 5). RAISE. https://doi.org/10.82136/script/08de790c-58a3-47dc-8475-cc889e4fe833
+Evdokimos Konstantinidis. (2026). evdokimosk/raise-openalex-researchers-analysis: Openalex works analysis in RAISE (v1.0.0). Zenodo. https://doi.org/10.5281/zenodo.19315125
 ```
 
 ## License
