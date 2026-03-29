@@ -268,8 +268,7 @@ plt.savefig('custom_plot.png')
 
 If you use this tool in your research, please cite:
 ```
-OpenAlex Dataset Analysis Tool (2025)
-GitHub: [repository URL]
+Konstantinidis, E. (2026). Openalex Researcher Work Analysis (v5) in RAISE (No. 5). RAISE. https://doi.org/10.82136/script/08de790c-58a3-47dc-8475-cc889e4fe833
 ```
 
 ## License
@@ -298,6 +297,7 @@ For issues, questions, or contributions:
 
 ## Acknowledgments
 
+- Used in RAISE platform, with the doi: https://doi.org/10.82136/script/08de790c-58a3-47dc-8475-cc889e4fe833
 - Built for OpenAlex data format
 - Uses matplotlib, seaborn, networkx for visualizations
 - Statistical analysis with scipy
